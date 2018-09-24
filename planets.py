@@ -1,5 +1,5 @@
 def weight_on_planets():
-   a = input("What dow you weigh on earth? ") #asks for input
+   a = input("What do you weigh on earth? ") #asks for input
    w = int(a) #casting the given weight as an int
    M = "On Mars you would weigh" #making a string variable
    J = "On Jupiter you would weigh" #making a string variable
