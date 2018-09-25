@@ -1,3 +1,12 @@
+#
+#Name: Zac Krogman
+#Student ID: 014085262
+#Date (last modified): 9/24/18
+#
+# Lab 0
+# Section: 15
+# Purpose of Lab: to ge started coding in python and using github
+# additional comments
 def weight_on_planets():
    a = input("What do you weigh on earth? ") #asks for input
    w = int(a) #casting the given weight as an int
